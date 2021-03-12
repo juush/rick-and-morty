@@ -12,7 +12,7 @@ function RandomComponent(props) {
           <CharCard>
             <p>{e.name}</p>
             <p>{e.status}</p>
-            <img src={e.image} style={{height: '200px', margin: '0 auto'}} />
+            <img src={e.image} style={ { height: '200px', margin: '0 auto' } } alt="character potrait" />
           </CharCard>
         )
       })}
