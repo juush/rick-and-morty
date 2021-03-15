@@ -3,7 +3,7 @@ import React from 'react';
 
 function HeaderComponent() {
   return (
-    <h1 className="text-center text-xl">Rick and Morty Characters!</h1>
+    <h1 className="text-center text-5xl text-info">Rick and Morty Characters!</h1>
   );
 }
 

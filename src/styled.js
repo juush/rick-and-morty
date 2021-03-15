@@ -13,4 +13,9 @@ text-align: center;
 padding: 5px;
 margin: 5px;
 border-radius: 10px;
+`;
+
+export const SearchLabel = styled.span`
+display:flex;
+justify-content:center
 `
